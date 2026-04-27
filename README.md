@@ -1,5 +1,5 @@
 # desert-island-agents
-How far can you go with only a local coding agent?
+How far can you go with only a local model?
 
 ## License
 - **Code**: [MIT License](LICENSE)
